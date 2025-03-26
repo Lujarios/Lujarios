@@ -17,8 +17,8 @@ const luca = {
   architecture: ["OOP", "Embedded", "Database Operation"],
   tools: {
                         embedded: [MXLAB, Datasheet Venturer],
-                        database: [MySQL, PosgreSQL, PGAdmin],
-                        web-dev: [React, Node, SpringBoot],
+                        database: [MySQL, PosgreSQL, PGAdmin, MongoDB],
+                        web-dev: [React, Next.js, Node.js, Flask],
                         other: [Docker, Github, VS-Code, Unity]
                       },
  goal: "Implement new methods of reaching out for internship applications.",
