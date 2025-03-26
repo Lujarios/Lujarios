@@ -21,6 +21,7 @@ const luca = {
                         web-dev: [React, Node, SpringBoot],
                         other: [Docker, Github, VS-Code, Unity]
                       },
- challenge: "Learn as much HTML / CSS before my Full-Stack course next semester!"
+ goal: "Implement new methods of reaching out for internship applications.",
+ dream: "Travel and work for a few years. Learn and experience as much as I can!"
 }
 ```
