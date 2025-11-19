@@ -39,15 +39,20 @@ Mechatronics Minor ‎ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3N
 ```typescript
 const luca: {
   pronouns: string[];
+  currentWork: string[];
   languages: string[];
   frameworksAndLibraries: string[];
   platformsAndTools: string[];
   databases: string[];
   focusAreas: string[];
-  currentWork: string[];
   goal: string;
 } = {
   pronouns: ["he", "him"],
+
+ currentWork: [
+    "Project Manager @ TechStart — Leading Networking Icebreaker application development",
+    "Full-stack Developer @ Code the Change YYC"
+  ],
 
   languages: [
     "TypeScript", "JavaScript",
@@ -76,12 +81,8 @@ const luca: {
     "Accessible & User-Centered Design"
   ],
 
-  currentWork: [
-    "Project Manager @ TechStart — Leading Networking Icebreaker application development",
-    "Full-stack Developer @ Code the Change YYC"
-  ],
-
-  goal: "Build meaningful software, lead impactful teams, and grow into a strong full-stack engineer with product-driven thinking."
+  goal: "Build meaningful software, lead impactful teams, and grow
+         into a strong full-stack engineer with product-driven thinking."
 
 };
 ```
