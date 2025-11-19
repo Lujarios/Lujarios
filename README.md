@@ -81,8 +81,10 @@ const luca: {
     "Accessible & User-Centered Design"
   ],
 
-  goal: "Build meaningful software, lead impactful teams, and grow
-         into a strong full-stack engineer with product-driven thinking."
+  goal: `
+    Build meaningful software, lead impactful teams, and grow into
+    a strong full-stack engineer with product-driven thinking.
+  `,
 
 };
 ```
