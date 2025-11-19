@@ -1,27 +1,87 @@
-<h1>Hi, I'm Luca Rios! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVwZ3NkNm5pN3VmbjBjbjJmcTN5eGV3NDU4ZXl2dDNkbjdxN2lrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xThtal2R5W3OdmKiGY/giphy.gif" width="50"></h1>
-<p>Welcome to My GitHub Profile!</p>
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNzd2Z5aDByM3cyNmI5cWV1ZHdyZHAyc2dmN2phZ3NkcTV3cGZnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="200"">
-<p><em>Software Engineer at <a href="https://schulich.ucalgary.ca">University of Calgary</a>‎ ‎ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5b29hNXNyYm1jc2QzeWgzZm5zbndvZ296c2YxdWR4enZvdjNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IeEeEIPq36SC5TUqbd/giphy.gif" width="15">
-</br>Software / Game Developer in <a href="https://techstartucalgary.com">Tech Start</a> ‎ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV1Z2F4N3JwczhtNXp3dHpucTdxcDJpcXFpdjI5OGZoN2p1czVrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pFwXMKR3dHra4p6neT/giphy.gif" width="30"> 
+<h1 align="center">Hi, I'm Luca Rios!  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVwZ3NkNm5pN3VmbjBjbjJmcTN5eGV3NDU4ZXl2dDNkbjdxN2lrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xThtal2R5W3OdmKiGY/giphy.gif" width="45">
+</h1>
+
+<p align="center"><em>Welcome to my GitHub profile! 👋</em></p>
+
+<table align="center">
+<tr>
+<td width="210" align="center">
+
+<img src="https://techstartucalgary.com/static/media/Luca_Rios.c15b66da5b562e8a3feb.jpeg" width="200" style="border-radius:10px;">
+
+</td>
+<td>
+
+<p><em>
+<b>Software Engineering</b> — <a href="https://schulich.ucalgary.ca">University of Calgary</a><br>
+Mechatronics Minor ‎ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5b29hNXNyYm1jc2QzeWgzZm5zbndvZ296c2YxdWR4enZvdjNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IeEeEIPq36SC5TUqbd/giphy.gif" width="18" align="absmiddle">
 </em></p>
+
+<p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_F4vgXzy14CdaT1wlZhjBveQVOVZLYSBYqw&s" width="24" align="absmiddle"> Project Manager @ <a href="https://techstartucalgary.com">Tech Start UCalgary</a><br>
+<img src="https://www.codethechangeyyc.ca/_next/image?url=%2Flogo.png&w=96&q=75" width="20" align="absmiddle"> Software Developer @ <a href="https://www.codethechangeyyc.ca/">Code the Change YYC</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 [![Linkedin: lujarios](https://img.shields.io/badge/-lujarios-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lujarios/)](https://www.linkedin.com/in/lujarios/)
 [![GitHub lujarios](https://img.shields.io/github/followers/lujarios?label=follow&style=social)](https://github.com/lujarios)
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhjOGwwbndoaHlncGJoeGhnbmU5cDRsbWhzZDBzY252bW0zcndvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SbjZReq34bsLAa6sMT/giphy.gif" width="45"> A little more about me...  
+</div>
 
-```javascript
-const luca = {
-  pronouns: "he" | "him",
-  code: [C / C++, C#, Java, Python, Javascript],
-  architecture: ["OOP", "Embedded", "Database Operation"],
-  tools: {
-                        embedded: [MXLAB, Datasheet Venturer],
-                        database: [MySQL, PosgreSQL, PGAdmin, MongoDB],
-                        web-dev: [React, Next.js, Node.js, Flask],
-                        other: [Docker, Github, VS-Code, Unity]
-                      },
- goal: "Implement new methods of reaching out for internship applications.",
- dream: "Travel and work for a few years. Learn and experience as much as I can!"
-}
+### <div align="center"> A little more about me...<br></div>
+
+```typescript
+const luca: {
+  pronouns: string[];
+  languages: string[];
+  frameworksAndLibraries: string[];
+  platformsAndTools: string[];
+  databases: string[];
+  focusAreas: string[];
+  currentWork: string[];
+  goal: string;
+} = {
+  pronouns: ["he", "him"],
+
+  languages: [
+    "TypeScript", "JavaScript",
+    "Python", "C", "C++", "C#",
+    "Java", "RISC-V Assembly"
+  ],
+
+  frameworksAndLibraries: [
+    "React", "Next.js", "Node.js",
+    "Express", "React Native", "Expo",
+    "TailwindCSS", "Flask", "Unity"
+  ],
+
+  platformsAndTools: [
+    "Git", "GitHub", "Docker",
+    "Linux/Unix Shell", "Jira",
+    "CI/CD Workflows"
+  ],
+
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "pgAdmin", "Supabase"],
+
+  focusAreas: [
+    "Full-Stack Web Development",
+    "Technical Project Management",
+    "Product Scoping & Feature Definition",
+    "Accessible & User-Centered Design"
+  ],
+
+  currentWork: [
+    "Project Manager @ TechStart — Leading Networking Icebreaker application development",
+    "Full-stack Developer @ Code the Change YYC"
+  ],
+
+  goal: "Build meaningful software, lead impactful teams, and grow into a strong full-stack engineer with product-driven thinking."
+
+};
 ```
