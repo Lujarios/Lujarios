@@ -14,13 +14,30 @@
 <td>
 
 <p><em>
-<b>Software Engineering</b> — <a href="https://schulich.ucalgary.ca">University of Calgary</a><br>
-Mechatronics Minor ‎ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5b29hNXNyYm1jc2QzeWgzZm5zbndvZ296c2YxdWR4enZvdjNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IeEeEIPq36SC5TUqbd/giphy.gif" width="18" align="absmiddle">
+<b>Software Engineering</b> — 
+<a href="https://schulich.ucalgary.ca">University of Calgary</a><br>
+Mechatronics Minor &nbsp;•&nbsp; Embedded Systems & Hardware–Software Integration
+&nbsp;
+<img 
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF5b29hNXNyYm1jc2QzeWgzZm5zbndvZ296c2YxdWR4enZvdjNpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IeEeEIPq36SC5TUqbd/giphy.gif" 
+  width="18" 
+  align="absmiddle">
 </em></p>
 
 <p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_F4vgXzy14CdaT1wlZhjBveQVOVZLYSBYqw&s" width="24" align="absmiddle"> Project Manager @ <a href="https://techstartucalgary.com">Tech Start UCalgary</a><br>
-<img src="https://www.codethechangeyyc.ca/_next/image?url=%2Flogo.png&w=96&q=75" width="20" align="absmiddle"> Software Developer @ <a href="https://www.codethechangeyyc.ca/">Code the Change YYC</a>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4dc7bb78-7d0a-492c-9dd4-cb45047d55db" />
+ Project Manager & Developer — <b>Armada</b> 
+<em>(3D Printer Fleet Management Capstone)</em><br>
+
+<img src="https://www.codethechangeyyc.ca/_next/image?url=%2Flogo.png&w=96&q=75" 
+     width="20" 
+     align="absmiddle"> 
+Full-Stack Developer @ 
+<a href="https://www.codethechangeyyc.ca/">Code the Change YYC</a><br>
+
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e6fc1938-7bc9-4ab8-8282-8694ce755b4b" />
+ Developer — <b>SafeTalk</b> 
+<em>(AI Hazard Communication Training Platform)</em>
 </p>
 
 </td>
