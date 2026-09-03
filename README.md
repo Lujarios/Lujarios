@@ -37,21 +37,13 @@ Mechatronics Minor ‎ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3N
 ### <div align="center"> A little more about me...<br></div>
 
 ```typescript
-const luca: {
-  pronouns: string[];
-  currentWork: string[];
-  languages: string[];
-  frameworksAndLibraries: string[];
-  platformsAndTools: string[];
-  databases: string[];
-  focusAreas: string[];
-  goal: string;
-} = {
+const luca = {
   pronouns: ["he", "him"],
 
- currentWork: [
-    "Project Manager @ TechStart — Leading Networking Icebreaker application development",
-    "Full-stack Developer @ Code the Change YYC"
+  currentWork: [
+    "Project Manager & Developer — Armada, 3D Printer Fleet Management",
+    "Full-Stack Developer @ Code the Change YYC",
+    "Developer — SafeTalk, AI Hazard Communication Training Platform"
   ],
 
   languages: [
@@ -61,30 +53,42 @@ const luca: {
   ],
 
   frameworksAndLibraries: [
-    "React", "Next.js", "Node.js",
+    "React", "Next.js",
+    "tRPC", "Drizzle ORM",
     "Express", "React Native", "Expo",
-    "TailwindCSS", "Flask", "Unity"
+    "Tailwind CSS", "shadcn/ui",
+    "Flask"
   ],
 
   platformsAndTools: [
     "Git", "GitHub", "Docker",
-    "Linux/Unix Shell", "Jira",
-    "CI/CD Workflows"
+    "AWS (S3, Transcribe, Cognito)",
+    "Auth.js",
+    "OpenAI API",
+    "Node.js",
+    "Linux/Unix Shell",
+    "Jira", "CI/CD Workflows"
   ],
 
-  databases: ["PostgreSQL", "MySQL", "MongoDB", "pgAdmin", "Supabase"],
+  databases: [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Supabase"
+  ],
 
   focusAreas: [
+    "Embedded Systems & Mechatronics",
+    "Hardware–Software Integration",
     "Full-Stack Web Development",
     "Technical Project Management",
-    "Product Scoping & Feature Definition",
     "Accessible & User-Centered Design"
   ],
 
   goal: `
-    Build meaningful software, lead impactful teams, and grow into
-    a strong full-stack engineer with product-driven thinking.
+    Build software that bridges the physical and digital worlds,
+    while growing my experience in embedded systems, mechatronics,
+    and full-stack engineering.
   `,
-
 };
 ```
